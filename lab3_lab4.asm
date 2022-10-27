@@ -1,4 +1,4 @@
-Lab 3
+; Lab 3
 
 .ORIG x3000
 RESTART LEA R0, PROMPT
@@ -45,7 +45,7 @@ DAYS   .STRINGZ "Sunday "
 
 
 
-Lab 4
+; Lab 4
 
 .ORIG x3000
 					
